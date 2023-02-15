@@ -1,6 +1,6 @@
 import { FaAward } from "react-icons/fa";
 import { VscFolderLibrary } from "react-icons/vsc";
-import ME from "../../assets/me-about.png";
+import ME from "../../assets/me-about.jpg";
 import "./about.css";
 
 function About() {
@@ -12,7 +12,7 @@ function About() {
         <div className="about__me">
           <div className="about__me-image">
             <img src={ME} alt="About " />
-            <div></div>
+            {/*  <div></div> */}
           </div>
         </div>
         <div className="about__content">
