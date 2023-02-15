@@ -31,8 +31,8 @@ function About() {
           <p>
             I'm a Front End Developer with 1+ years of experience. My current
             tools of choice include Typescript & Javascript, React & Next, HTML
-            & CSS, Material UI & Tailwind CSS. I'm in constant search of growth
-            opportunities, where I can collaborate with top talent, all
+            & CSS, Material UI & Tailwind. <br /> I'm in constant search of
+            growth opportunities, where I can collaborate with top talent, all
             motivated by a desire to bring a unique high-end value to everyone I
             work with.
           </p>
