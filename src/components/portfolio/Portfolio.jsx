@@ -10,20 +10,20 @@ const data = [
     img: IMG1,
     title: "Solutions to Frontend Mentor Challenges",
     subtitle:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt, ipsum.",
-    github: "http://github.com",
+      "Involves real world HTML, CSS, & Javascript challenges whilst working to professional designs. This has always been my way to improve my front-end skills by building real projects.",
+    github: "http://github.com/Amakoye",
     demo: "https://www.frontendmentor.io/profile/Amakoye",
-    isPrivate: false,
+    isPrivate: true,
   },
   {
     id: 2,
     img: IMG2,
-    title: "Data Alma Company Website",
+    title: "Data Alma",
     subtitle:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt, ipsum.",
-    github: "#",
+      "A website for Data Alma Company. Built with Next, Typescript & Material UI.",
+    github: "https://github.com/Amakoye",
     demo: "https://testdataalma.netlify.app/",
-    isPrivate: false,
+    isPrivate: true,
   },
 
   {
@@ -31,7 +31,7 @@ const data = [
     img: IMG4,
     title: "E-HealthPost",
     subtitle:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt, ipsum.",
+      "A portal that provides scheme members with information & near real time updates about their Britam medical cover & other general related material.",
     github: "http://github.com",
     demo: "http://dribble.com",
     isPrivate: true,
@@ -41,11 +41,10 @@ const data = [
     id: 5,
     img: IMG6,
     title: "Mazao Data",
-    subtitle:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt, ipsum.",
+    subtitle: `An agriweb solution that rates the most demanded agricultural products from websites visited and display analysed data to farmers.`,
     github: "http://github.com",
     demo: "http://dribble.com",
-    isPrivate: false,
+    isPrivate: true,
   },
 ];
 
