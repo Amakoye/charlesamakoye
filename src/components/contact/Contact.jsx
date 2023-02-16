@@ -63,13 +63,10 @@ function Contact() {
             <BsWhatsapp className="contact__option-icon" />
             <h4>WhatsApp</h4>
             <h5>+254727284591</h5>
-            <a
-              href="https://api.whatsapp.com/send?phone=+254727284591"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Send a message
-            </a>
+            {
+              // eslint-disable-next-line jsx-a11y/anchor-is-valid
+            }
+            <a href="#">Send a message</a>
           </article>
         </div>
         <form ref={form} onSubmit={sendEmail}>
