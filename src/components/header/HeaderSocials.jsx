@@ -1,18 +1,26 @@
 import { BsLinkedin } from "react-icons/bs";
 import { FaGithub } from "react-icons/fa";
-import { FiDribbble } from "react-icons/fi";
+import { FiTwitter } from "react-icons/fi";
 
 function HeaderSocials() {
   return (
     <div className="header__socials">
-      <a href="https://linkedin.com" target="_blank" rel="noreferrer">
+      <a
+        href="https://www.linkedin.com/in/charles-amakoye/"
+        target="_blank"
+        rel="noreferrer"
+      >
         <BsLinkedin />
       </a>
-      <a href="https://github.com" target="_blank" rel="noreferrer">
+      <a href="https://github.com/Amakoye" target="_blank" rel="noreferrer">
         <FaGithub />
       </a>
-      <a href="https://dribble.com" target="_blank" rel="noreferrer">
-        <FiDribbble />
+      <a
+        href="https://twitter.com/charlesamakoye"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <FiTwitter />
       </a>
     </div>
   );
